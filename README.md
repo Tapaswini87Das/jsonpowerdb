@@ -39,3 +39,12 @@ j)Enriched by a pluggable API Framework - A developer can develop a pluggable AP
 k)Standardisation of API development framework makes the development process easy, more readable, and less error prone.
 l)Multiple security layers.
 m)Nimble, Simple to use, In Memory, Real-time DBMS.
+
+SOURCES:-
+https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
+
+https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+
+https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
+
+https://login2explore.com/jpdb/resources/js/0.03/jpdb.commons.js
