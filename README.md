@@ -1,7 +1,10 @@
 # jsonpowerdb
-Web project on jsonpowerdb
+Web project on jsonpowerdb:-
+
 JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
+
 AJAX : JSON is often used to retrieve data from the server with AJAX. This is suitable because this way, retrieved data is presented to browser environment and then using JavaScript can be manipulated and rendered.
+
 1)JSON is a open, text-based, light-weight data interchange format specified as RFC4627, came to the developer world in 2005 and it's popularity is increased rapidly.
 2)JSON uses Object and Array as data structures and strings, number, true, false and null as values. Objects and arrays can be nested recursively.
 3)Most (if not all) modern programming languages can be used to work with JSON.
